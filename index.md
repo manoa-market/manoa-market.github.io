@@ -39,6 +39,8 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 Once you are logged in, you can browse through different available tabs, current listings or create your own. 
 
+![](home-page-example.png)
+
 ### Listings page 
 
 The Listings page allows for user to look at all current listings in the UH system, 
@@ -49,7 +51,7 @@ The Listings page allows for user to look at all current listings in the UH syst
 
 The List Item page allows for user to list an item for sale. Item name, description, price, and condition will be required.  
 
-![](images/home-page-example.png)
+![](images/add-project-page-example.png)
 
 ### Categories page
 
