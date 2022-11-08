@@ -38,7 +38,11 @@ After logging in, you are taken to the home page, which presents a form where yo
 
 ### User Profile page
 
-Once you are logged in, you can browse through current listing or create your own. 
+Once you are logged in, you can browse through current listings or create your own. 
+
+### Listings page 
+
+The Listings page allows for user to look at all current listings in the UH system, 
 
 
 ### List Item page 
