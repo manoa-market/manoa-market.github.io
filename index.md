@@ -11,7 +11,8 @@
 
 ## Overview
 
-Manoa Market is a web application that allows UH students, faculty, or staff to sell or purchase personal goods. At the end of every semester, there is always a large amount of unneeded or excess items. Students have textbooks they no longer have use for or dorm furniture to get rid of before they graduate. We intend to create an environment for all members of the UH system that allows "campus-specific" goods to be recycled and reused properly and effectively.
+Manoa Market is a web application that allows UH students, faculty, or staff to sell or purchase personal goods. At the end of every semester, there is always a large amount of unneeded or excess items. Students have textbooks they no longer have use for or dorm furniture to get rid of before they graduate. We intend to create an environment for all members of the UH system that allows "campus-specific" goods to be recycled and reused effectively.
+
 To ensure the authenticity and safety of those involved in every purchase. Users are obligated to connect their accounts with UH credentials, so there is no anonymity. In addition, there is an explicit expectation that all transactions should occur on campus grounds. 
 
 ## User Guide
