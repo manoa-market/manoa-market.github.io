@@ -11,9 +11,8 @@
 
 ## Overview
 
-Manoa Market is a web application that allows UH students, faculty or staff to sell or purchase personal goods. Throughout the school year students are constantly moving in and out of dorms 
-
-To ensure the safety and authenticity of every purchase, users are obligated to connect their accounts through their UH credientials and all transaction are expected to occur on campus grounds. 
+Manoa Market is a web application that allows UH students, faculty, or staff to sell or purchase personal goods. At the end of every semester, there is always a large amount of unneeded or excess items. Students have textbooks they no longer have use for or dorm furniture to get rid of before they graduate. We intend to create an environment for all members of the UH system that allows "campus-specific" goods to be recycled and reused properly and effectively.
+To ensure the authenticity and safety of those involved in every purchase. Users are obligated to connect their accounts with UH credentials, so there is no anonymity. In addition, there is an explicit expectation that all transactions should occur on campus grounds. 
 
 ## User Guide
 
@@ -23,7 +22,6 @@ This section provides a walkthrough of the Manoa Market user interface and its c
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
@@ -32,19 +30,24 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
 
-### Home page
+### User Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
 
 ### User Profile page
 
-Once you are logged in, you can define new projects with the Add Project page:
+Once you are logged in, you can browse through current listing or create your own. 
+
+
+### List Item page 
+
+The List Item page allows for user to list an item for sale. Item name, description, price, and condition will be required.  
 
 
 ### Categories page
 
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
+The Categories page provides the ability to query the database and display the results in the page. In this case, the query displays all of the items that match one or more of the specified Categories.
 
 ## Community Feedback
 
@@ -80,17 +83,8 @@ Manoa Market is based upon [meteor-application-template-react](https://ics-softw
 
 ### Data model
 
-As noted above, the Bowfolios data model consists of three "primary" collections (Projects, Profiles, and Interests), as well as three "join" Collections (ProfilesProjects, ProfilesInterests, and ProjectsInterests).  To understand this design choice, consider the situation where you want to specify the projects associated with a Profile.
-
-Design choice #1: Provide a field in Profile collection called "Projects", and fill it with an array of project names. This choice works great when you want to display a Profile and indicate the Projects it's associated with.  But what if you want to go the other direction: display a Project and all of the Profiles associated with it?  Then you have to do a sequential search through all of the Profiles, then do a sequential search through that array field looking for a match.  That's computationally expensive and also just silly.
-
-Design choice #2:  Provide a "join" collection where each document contains two fields: Profile name and Project name. Each entry indicates that there is a relationship between those two entities. Now, to find all the Projects associated with a Profile, just search this collection for all the documents that match the Profile, then extract the Project field. Going the other way is just as easy: to find all the Profiles associated with a Project, just search the collection for all documents matching the Project, then extract the Profile field.
-
-Bowfolios implements Design choice #2 to provide pair-wise relations between all three of its primary collections:
-
-
-The fields in boldface (Email for Profiles, and Name for Projects and Interests) indicate that those fields must have unique values so that they can be used as a primary key for that collection. This constraint is enforced in the schema definition associated with that collection.
-
+Design choice #1: 
+Design choice #2:  
 
 ## Initialization
 
