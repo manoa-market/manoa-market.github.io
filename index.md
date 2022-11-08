@@ -37,11 +37,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### User Home page
 
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
-
-### User Profile page
-
-Once you are logged in, you can browse through current listings or create your own. 
+Once you are logged in, you can browse through different available tabs, current listings or create your own. 
 
 ### Listings page 
 
