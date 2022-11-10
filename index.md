@@ -148,12 +148,18 @@ The following sections document the development history of Manoa Market.
 
 The goals of Milestone 1
  
-#### Create HTML Mock-up Pages 
-* Implement Landing Page
-* Implement User Home Page
-* Implement 
+#### Implement HTML Mock-up Pages 
+* Landing 
+* User Home
+* List Item
+* Listings
+* Categories 
+* Make offer on item 
+* Contact Seller
+* Save for Later 
 
-### Deploy application to [Digital Ocean](https://www.digitalocean.com/)
+#### Deploy application to [Digital Ocean](https://www.digitalocean.com/)
+
 
 ### Milestone 2: Data Model Development
 
