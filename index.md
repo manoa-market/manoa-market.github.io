@@ -146,7 +146,12 @@ The following sections document the development history of Manoa Market.
 
 ### Milestone 1: Mockup Development
 
-The goal of Milestone 1
+The goals of Milestone 1
+ 
+* Create Mock-up Pages 
+** Implement Landing Page
+* Implement User Home Page
+* Implement 
 
 ### Milestone 2: Data Model Development
 
