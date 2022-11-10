@@ -148,7 +148,7 @@ The following sections document the development history of Manoa Market.
 
 The goals of Milestone 1
  
-#### Implement REACT Mock-up Pages 
+#### Implement React Mock-up Pages 
 * Landing 
 * User Home
 * List Item
