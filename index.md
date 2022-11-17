@@ -23,35 +23,35 @@ This section provides a walkthrough of the Manoa Market user interface and its c
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page-example.png)
+![](images/landingpage.png)
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page-example.png)
+![](images/signinpage.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](images/signup-page-example.png)
+![](images/signuppage.png)
 
 ### User Home page
 
 Once you are logged in, you can browse through different available tabs, current listings or create your own. 
 
-![](home-page-example.png)
+![](/images/homepage.png)
 
 ### Listings page 
 
 The Listings page allows for user to look at all current listings in the UH system, 
 
-![](images/profiles-page-example.png)
+![](images/listingspage.png)
 
 ### List Item page 
 
-The List Item page allows for user to list an item for sale. Item name, description, price, and condition will be required.  
+The List Item page allows for user to list an item for sale. Item name, description, price, picture, and condition will be required.  
 
-![](images/add-project-page-example.png)
+![](images/addlisting.png)
 
 ### Categories page
 
@@ -146,7 +146,7 @@ The following sections document the development history of Manoa Market.
 
 ### Milestone 1: Mockup Development
 
-The goals of Milestone 1
+The goals of [Milestone 1](https://github.com/orgs/manoa-market/projects/1/views/1)
  
 #### Implement React Mock-up Pages 
 * Landing 
@@ -154,20 +154,22 @@ The goals of Milestone 1
 * List Item
 * Listings
 * Categories 
-* Make offer on item 
-* Contact Seller
-* Save for Later 
+* Meet The Team
 
 #### Deploy application to [Digital Ocean](https://www.digitalocean.com/)
 
 
 ### Milestone 2: Data Model Development
 
-The goal of Milestone 2 
+The goals of [Milestone 2](https://github.com/orgs/manoa-market/projects/2/views/1)
 
 ### Milestone 3: Final Touches
 
 The goal of Milestone 3 
+
+### Digital Ocean Deployment Page
+
+The Digital Ocean page can be found at http://164.90.157.203/
 
 ## Contact Us
 
@@ -177,3 +179,5 @@ Manoa Market is designed, implemented, and maintained by
 [Evan Araki](https://evanaraki.github.io/), 
 [Christian Reasoner](https://christianreasoner.github.io/), and 
 [Melvin Jae Alhambra](https://melvinjae.github.io/).
+
+Team contract can be viewed [here](https://docs.google.com/document/d/1GPZWK6PQLb15ER7ZeO9eEc9jhPR4jR-LPJiFgJTvMdE/edit?pli=1)
