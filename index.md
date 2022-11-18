@@ -57,7 +57,7 @@ The List Item page allows for user to list an item for sale. Item name, descript
 
 The Categories page provides the ability to query the database and display the results in the page. In this case, the query displays all of the items that match one or more of the specified Categories.
 
-![](images/filter-page-example.png)
+![](images/under-construction-warning-sign-vector.png)
 
 ## Community Feedback
 
