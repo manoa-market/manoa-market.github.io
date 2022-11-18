@@ -167,9 +167,9 @@ The goals of [Milestone 2](https://github.com/orgs/manoa-market/projects/2/views
 
 The goal of Milestone 3 
 
-### Digital Ocean Deployment Page
+### Digital Ocean Deployment
 
-The Digital Ocean page can be found at http://164.90.157.203/
+Deployed application can be found at [http://164.90.157.203/](http://164.90.157.203/)
 
 ## Contact Us
 
