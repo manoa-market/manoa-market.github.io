@@ -156,19 +156,24 @@ The goal of Milestone 1 was to create a set of React page mockups. The pages whi
 * Meet The Team
 
 The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board M1](https://github.com/orgs/manoa-market/projects/1/views/1):
+
 ![](images/M1.png)
 
 ### Milestone 2: Data Model Development
 
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Manoa Market application.
 
-Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1).
+Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1):
+
+
 
 ### Milestone 3: Final Touches
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-Milestone 3 was managed using [Manoa Market GitHub Project Board M3](https://github.com/orgs/manoa-market/projects/3/views/1).
+Milestone 3 was managed using [Manoa Market GitHub Project Board M3](https://github.com/orgs/manoa-market/projects/3/views/1):
+
+
 
 ### Digital Ocean Deployment
 
