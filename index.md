@@ -146,9 +146,8 @@ The following sections document the development history of Manoa Market.
 
 ### Milestone 1: Mockup Development
 
-The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board M1](https://github.com/orgs/manoa-market/projects/1/views/1).
+The goal of Milestone 1 was to create a set of React page mockups. The pages which were implemented are:
  
-#### Implement React Mock-up Pages 
 * Landing 
 * User Home
 * List Item
@@ -156,6 +155,7 @@ The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board
 * Categories 
 * Meet The Team
 
+The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board M1](https://github.com/orgs/manoa-market/projects/1/views/1):
 ![](images/M1.png)
 
 ### Milestone 2: Data Model Development
