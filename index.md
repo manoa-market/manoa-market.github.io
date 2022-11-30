@@ -174,16 +174,16 @@ The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board
 
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Manoa Market application.
 
-Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1):
-
-
-
 #### Features added:
 * Implement Categories
 * Add listings to database
 * Read listings from database
 * Allow editing users own listings
 * Allow users to view own listings
+
+Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1):
+
+![](images/M2.png)
 
 ### Milestone 3: Final Touches
 
