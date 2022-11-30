@@ -166,7 +166,7 @@ The goal of Milestone 1 was to create a set of React page mockups. The pages whi
 * Categories 
 * Meet The Team
 
-The goals of Milestone 1 was be managed using [Manoa Market GitHub Project Board M1](https://github.com/orgs/manoa-market/projects/1/views/1):
+The goals of Milestone 1 was managed using [Manoa Market GitHub Project Board M1](https://github.com/orgs/manoa-market/projects/1/views/1):
 
 ![](images/M1.png)
 
@@ -181,7 +181,7 @@ The goal of Milestone 2 was to implement the data model: the underlying set of M
 * Allow editing users own listings
 * Allow users to view own listings
 
-Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1):
+Milestone 2 was managed using [Manoa Market GitHub Project Board M2](https://github.com/orgs/manoa-market/projects/2/views/1):
 
 ![](images/M2.png)
 
