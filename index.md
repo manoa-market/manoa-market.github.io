@@ -43,7 +43,7 @@ Once you are logged in, you can browse through different available tabs, current
 
 ### Listings page 
 
-The Listings page allows for user to look at all current listings in the UH system, 
+The Listings page allows for user to look at all current listings in the UH system. 
 
 ![](images/listingspage.png)
 
@@ -58,6 +58,19 @@ The List Item page allows for user to list an item for sale. Item name, descript
 The Categories page provides the ability to query the database and display the results in the page. In this case, the query displays all of the items that match one or more of the specified Categories.
 
 ![](images/under-construction-warning-sign-vector.png)
+
+## My Listings page
+
+The My Listings page shows the listings that the owner has posted.
+
+![](images/mylisting.png)
+
+## Edit Listings page
+
+The Edit Listing page allows users to edit their own listing. It also allows to update the listings status to sold.
+
+![](images/editlisting.png)
+
 
 ## Community Feedback
 
@@ -91,10 +104,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 Manoa Market is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).
 
-### Data model
-
-Design choice #1: 
-Design choice #2:  
 
 ## Initialization
 
@@ -167,7 +176,15 @@ Milestone 2 was be managed using [Manoa Market GitHub Project Board M2](https://
 
 
 
+#### Features added:
+* Implement Categories
+* Add listings to database
+* Read listings from database
+* Allow editing users own listings
+* Allow users to view own listings
+
 ### Milestone 3: Final Touches
+
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
