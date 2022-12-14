@@ -190,6 +190,67 @@ Milestone 2 was managed using [Manoa Market GitHub Project Board M2](https://git
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
+# Here are some reviews that we gathered from the UH commuinity
+
+### Dennis Gilbert
+
+postives
+
+> Everything is pretty easy to see. It is not cluttered
+
+negatives
+
+> Probably needs a search area as most websites have it.
+
+### Ethan Ballou
+
+postives
+
+> Easy to use
+
+negatives
+
+> •Maybe allow listings to be seen while not signed in.
+> •For mobile devices, the home page image stretches past the green borders
+> •add images directly
+> •search bar
+
+### Joseph Tsuruda
+
+postives
+
+> Clean UI, easy to navigate. Easy to read fonts.
+
+negatives
+
+> The website allowed me to add an email that was outside of the "hawaii.edu" domain. Add a search button.
+
+### Josh Tolbe
+
+postives
+
+> Very easy to go through, well organized
+
+negatives
+
+> search bar
+
+### Enoch Han
+
+postives
+
+> From what I understand, this website is for Hawaii University Students, so it makes sense that only users with Hawai'i.edu
+> accounts will be able to access it. I also like the use of the school colors.
+
+negatives
+
+> Needs a search bar. There should be a sorting feature to filter items (ex: price from least to greatest and vice versa). Give 
+> preview of items for non-account users, but don't allow them to access any until account is made. Would like to see more than 
+> three columns of listings as it is inconvenient to keep scrolling to see the listings. Does not seem to be secure — please 
+> delete my information after this. Needs a personal messaging feature for contact between seller and consumer. No option for 
+> images in listings?
+> Good luck!
+
 Milestone 3 was managed using [Manoa Market GitHub Project Board M3](https://github.com/orgs/manoa-market/projects/3/views/1):
 
 
