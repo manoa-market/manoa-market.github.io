@@ -182,8 +182,9 @@ Milestone 2 was managed using [Manoa Market GitHub Project Board M2](https://git
 
 ### Milestone 3: Final Touches
 
+The goal of Milestone 3 was to clean up the code base and fix minor UI issues. [Manoa Market GitHub Project Board M3](https://github.com/orgs/manoa-market/projects/3/views/1):
 
-The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
+![](images/M3.png)
 
 ## Here are some reviews that we gathered from the UH commuinity
 
