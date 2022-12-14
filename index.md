@@ -73,11 +73,6 @@ The Edit Listing page allows users to edit their own listing. It also allows to 
 
 ![](images/markAsSold.png)
 
-
-## Community Feedback
-
-We are interested in your experience using Manoa Market!  If you would like, please take a couple of minutes to fill out the [Manoa Market Feedback Form](). It contains short questions and will help us understand how to improve the system.
-
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
@@ -190,7 +185,7 @@ Milestone 2 was managed using [Manoa Market GitHub Project Board M2](https://git
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-# Here are some reviews that we gathered from the UH commuinity
+## Here are some reviews that we gathered from the UH commuinity
 
 ### Dennis Gilbert
 
