@@ -49,17 +49,17 @@ The Listings page allows for user to look at all current listings in the UH syst
 
 ![](images/allListings.png)
 
-### List Item page 
-
-The List Item page allows for user to list an item for sale. Item name, description, price, picture, and condition will be required.  
-
-![](images/addListing.png)
-
 ### Categories
 
 Under the all the Listings provides another navigation bar which organizations each item into specified categories.
 
 ![](images/furniture.png)
+
+### List Item page 
+
+The List Item page allows for user to list an item for sale. Item name, description, price, picture, and condition will be required.  
+
+![](images/addListing.png)
 
 ## My Listings page
 
