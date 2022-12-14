@@ -47,13 +47,13 @@ Once you are logged in, you can browse through different available tabs, current
 
 The Listings page allows for user to look at all current listings in the UH system. 
 
-![](images/allListings.png)
+![](images/allListings1.png)
 
 ### Categories
 
 Under the all the Listings provides another navigation bar which organizations each item into specified categories.
 
-![](images/furniture.png)
+![](images/furniture1.png)
 
 ### List Item page 
 
