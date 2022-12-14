@@ -51,7 +51,7 @@ The Listings page allows for user to look at all current listings in the UH syst
 
 ### Categories
 
-Under the all the Listings provides another navigation bar which organizations each item into specified categories.
+Under the all the Listings provides another navigation bar which organizes each listing into specified categories.
 
 ![](images/furniture1.png)
 
