@@ -196,7 +196,7 @@ Milestone 3 was managed using [Manoa Market GitHub Project Board M3](https://git
 
 ### Digital Ocean Deployment
 
-Deployed application can be found at [http://159.223.206.205/](http://159.223.206.205/)
+Deployed application can be found at [http://137.184.236.187/](http://137.184.236.187/)
 
 ## Contact Us
 
