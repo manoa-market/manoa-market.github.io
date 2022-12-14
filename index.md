@@ -31,47 +31,47 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signinpage.png)
+![](images/logInPage.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](images/signuppage.png)
+![](images/registerPage.png)
 
 ### User Home page
 
 Once you are logged in, you can browse through different available tabs, current listings or create your own. 
 
-![](/images/homepage.png)
+![](/images/homePage.png)
 
 ### Listings page 
 
 The Listings page allows for user to look at all current listings in the UH system. 
 
-![](images/listingspage.png)
+![](images/allListings.png)
 
 ### List Item page 
 
 The List Item page allows for user to list an item for sale. Item name, description, price, picture, and condition will be required.  
 
-![](images/addlisting.png)
+![](images/addListing.png)
 
-### Categories page
+### Categories
 
-The Categories page provides the ability to query the database and display the results in the page. In this case, the query displays all of the items that match one or more of the specified Categories.
+Under the all the Listings provides another navigation bar which organizations each item into specified categories.
 
-![](images/under-construction-warning-sign-vector.png)
+![](images/furniture.png)
 
 ## My Listings page
 
 The My Listings page shows the listings that the owner has posted.
 
-![](images/mylisting.png)
+![](images/myListings.png)
 
 ## Edit Listings page
 
 The Edit Listing page allows users to edit their own listing. It also allows to update the listings status to sold.
 
-![](images/editlisting.png)
+![](images/markAsSold.png)
 
 
 ## Community Feedback
